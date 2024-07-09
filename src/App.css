@@ -150,6 +150,7 @@ body {
   margin-right: 2rem;
   border-radius: 0.5rem;
   height: 3.5rem;
+  object-fit: cover;
 }
 .bot{
   background: rgba(28, 30, 58, 1);
