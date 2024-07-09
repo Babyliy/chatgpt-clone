@@ -162,3 +162,9 @@ body {
   line-height: 2.4rem;
   color: rgba(222, 222, 222, 1);
 }
+
+@media (max-width: 1200px) {
+ .bot{
+  width: 65rem;
+ }
+}
