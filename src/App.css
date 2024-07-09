@@ -166,5 +166,6 @@ body {
 @media (max-width: 1200px) {
  .bot{
   width: 65rem;
+  padding-left: 3rem;
  }
 }
