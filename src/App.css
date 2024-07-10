@@ -221,7 +221,9 @@ body {
   margin-top: 1rem;
   width: 30rem;
   padding: 1rem;
-  font-size: 0.7rem;
+}
+.chat{
+  font-size: 0.8rem;
 }
 .main{
   margin-top: 5rem;
