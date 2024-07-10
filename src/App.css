@@ -166,7 +166,7 @@ body {
 @media (max-width:768px) {
 .App{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .lowerSide{
   display: none;
