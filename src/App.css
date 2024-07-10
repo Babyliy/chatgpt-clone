@@ -172,14 +172,16 @@ body {
   display: none;
 }
 .logo{
-  height: 10rem;
+  height: 4rem;
 }
 .text{
   font-size: 1.5rem;
+  font-weight: bold;
 }
 .midBtn{
-  width: 15rem;
-  font-size: 1rem;
+  width: 9rem;
+  font-size: 1.2rem;
+  margin-left: 10rem;
 }
 .sideBar{
   border: none;
