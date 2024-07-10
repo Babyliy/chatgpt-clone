@@ -163,3 +163,15 @@ body {
   color: rgba(222, 222, 222, 1);
 }
 
+@media (max-width:768px) {
+.App{
+  display: flex;
+  flex-direction: row;
+}
+.lowerSide{
+  display: none;
+}
+.sideBar{
+  border: none;
+}
+}
