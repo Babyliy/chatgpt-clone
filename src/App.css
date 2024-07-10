@@ -227,6 +227,7 @@ body {
 .chat{
   font-size: 0.8rem;
   padding: 1.2rem;
+  border-radius: 2rem;
 }
 .main{
   margin-top: 5rem;
