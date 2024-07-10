@@ -166,6 +166,6 @@ body {
 @media (max-width: 1200px) {
  .chat{
   width: 65rem;
-  padding-left: 3rem;
+  margin-left: 3rem;
  }
 }
