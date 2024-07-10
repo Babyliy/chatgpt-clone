@@ -171,6 +171,16 @@ body {
 .lowerSide{
   display: none;
 }
+.logo{
+  height: 10rem;
+}
+.text{
+  font-size: 1.5rem;
+}
+.midBtn{
+  width: 15rem;
+  font-size: 1rem;
+}
 .sideBar{
   border: none;
 }
