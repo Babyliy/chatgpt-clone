@@ -172,15 +172,15 @@ body {
   display: none;
 }
 .logo{
-  height: 3rem;
+  height: 4rem;
   margin-right: 0.7rem;
 }
 .text{
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 .midBtn{
-  width: 12rem;
+  width: 14rem;
   font-size: 1.5rem;
   margin-left: 17rem;
   padding: 1.3rem;
@@ -188,7 +188,7 @@ body {
   margin-bottom: 1.2rem;
 }
 .upperSideTop{
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.3rem;
 }
 
 .addBtn {
