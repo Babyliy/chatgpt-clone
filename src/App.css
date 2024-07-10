@@ -222,6 +222,7 @@ body {
   padding: 1rem;
   width: 35rem;
   margin: 1.5rem;
+  margin-trim: none;
 }
 .chat{
   font-size: 0.8rem;
