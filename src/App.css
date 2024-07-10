@@ -195,6 +195,7 @@ body {
 .upperSide{
   height: 15rem;
   padding: 1.5rem;
+  margin-top: 1rem;
 }
 .upperSidebottom{
   display: flex;
