@@ -169,4 +169,8 @@ body {
   margin-left: 3rem;
   font-size: 1rem;
  }
+ .sideBar{
+  display: none;
+ }
+ 
 }
