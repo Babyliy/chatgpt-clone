@@ -220,12 +220,12 @@ body {
 .chats{
   margin-top: 1rem;
   padding: 1rem;
+  width: 70rem;
 }
 .chat{
   font-size: 0.8rem;
   padding: 1.2rem;
   margin: 1.5rem;
-  width: 30rem;
 }
 .main{
   margin-top: 5rem;
