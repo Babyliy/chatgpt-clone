@@ -167,5 +167,6 @@ body {
  .chat{
   width: 65rem;
   margin-left: 3rem;
+  font-size: 1rem;
  }
 }
