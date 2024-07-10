@@ -198,9 +198,10 @@ body {
   border: none;
 }
 .upperSide{
-  height: 15rem;
+  height: 10rem;
   padding: 1.5rem;
   margin-top: 0.1rem;
+  border: none;
 }
 .upperSidebottom{
   display: flex;
