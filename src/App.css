@@ -168,11 +168,12 @@ body {
   width: 25rem;
   margin-left: 3rem;
   font-size: 1rem;
+  align-items: center;
  }
  .sideBar{
   display: none;
  }
  .inp{
-  width: 20rem;
+  width: 40rem;
  }
 }
