@@ -186,6 +186,9 @@ body {
   padding: 1.3rem;
   margin-top: 0.02rem;
   margin-bottom: 1.4rem;
+  display: flex;
+  align-items: flex-end;
+  
 }
 .upperSideTop{
   margin-bottom: 0.3rem;
@@ -222,7 +225,7 @@ body {
   padding: 1rem;
   width: 32rem;
   margin: 1.5rem;
-  margin-trim: none;
+  margin-trim: 0.5rem;
 }
 .chat{
   font-size: 0.8rem;
