@@ -180,7 +180,7 @@ body {
   font-weight: bold;
 }
 .midBtn{
-  width: 17rem;
+  width: 16rem;
   font-size: 1.5rem;
   margin-left: 17rem;
   padding: 1.3rem;
@@ -208,6 +208,7 @@ body {
   display: flex;
   flex-direction: row;
   margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 .query{
   width: 13rem;
