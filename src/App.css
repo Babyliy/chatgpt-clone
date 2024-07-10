@@ -219,13 +219,13 @@ body {
 }
 .chats{
   margin-top: 1rem;
-  width: 30rem;
   padding: 1rem;
 }
 .chat{
   font-size: 0.8rem;
-  padding: 2rem;
+  padding: 1.2rem;
   margin: 1.5rem;
+  width: 30rem;
 }
 .main{
   margin-top: 5rem;
