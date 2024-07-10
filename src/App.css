@@ -183,7 +183,7 @@ body {
   font-size: 1.2rem;
   margin-left: 23rem;
   padding: 1rem;
-  margin-top: 0.1rem;
+  margin-top: 0.02rem;
 }
 .addBtn {
   height: 1.5rem;
@@ -195,11 +195,12 @@ body {
 .upperSide{
   height: 15rem;
   padding: 1.5rem;
-  margin-top: 1rem;
+  margin-top: 0.1rem;
 }
 .upperSidebottom{
   display: flex;
   flex-direction: row;
+  margin-top: 1rem;
 }
 .query{
   width: 13rem;
