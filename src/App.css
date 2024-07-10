@@ -181,9 +181,9 @@ body {
 .midBtn{
   width: 9rem;
   font-size: 1.2rem;
-  margin-left: 20rem;
+  margin-left: 23rem;
   padding: 1rem;
-  margin-top: 0.2rem;
+  margin-top: -0.2rem;
 }
 .addBtn {
   height: 1.5rem;
@@ -197,8 +197,9 @@ body {
   flex-direction: row;
 }
 .query{
-  width: 11rem;
+  width: 13rem;
   font-size: 1.3rem;
-  padding: 1rem;
+  padding: 1.2rem;
+  margin-top: 1rem;
 }
 }
