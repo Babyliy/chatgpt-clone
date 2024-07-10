@@ -192,6 +192,9 @@ body {
 .sideBar{
   border: none;
 }
+.upperSide{
+  height: 30rem;
+}
 .upperSidebottom{
   display: flex;
   flex-direction: row;
