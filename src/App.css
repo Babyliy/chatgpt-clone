@@ -164,10 +164,13 @@ body {
 }
 
 @media (max-width: 1200px) {
+  .App{
+    min-height: 100vh;
+  }
  .chat{
-  width: 25rem;
+  width: 45rem;
   margin-left: 3rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   align-items: center;
  }
  .sideBar{
@@ -175,5 +178,6 @@ body {
  }
  .inp{
   width: 40rem;
+  align-items: center;
  }
 }
