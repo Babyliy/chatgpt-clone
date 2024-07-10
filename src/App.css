@@ -172,7 +172,7 @@ body {
   display: none;
 }
 .logo{
-  height: 4rem;
+  height: 3.5rem;
 }
 .text{
   font-size: 1.5rem;
@@ -181,7 +181,12 @@ body {
 .midBtn{
   width: 9rem;
   font-size: 1.2rem;
-  margin-left: 10rem;
+  margin-left: 20rem;
+  padding: 1rem;
+}
+.addBtn {
+  height: 1.5rem;
+  padding-right: 0.5rem;
 }
 .sideBar{
   border: none;
