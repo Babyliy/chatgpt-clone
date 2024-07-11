@@ -241,5 +241,10 @@ body {
 }
 .chatImg{
   width: 3rem;
+  height: 3rem;
+  
+}
+.txt{
+  margin-left: 1rem;
 }
 }
