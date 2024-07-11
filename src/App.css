@@ -182,7 +182,7 @@ body {
 .midBtn{
   width: 15.5rem;
   font-size: 1.5rem;
-  margin-right: 2rem;
+  margin-right: 1.8rem;
   padding: 1.3rem;
   margin-top: 0.02rem;
   margin-bottom: 1.4rem;
@@ -236,7 +236,7 @@ body {
   margin-top: 5rem;
 }
 .bot{
-  width:32rem ;
+  width:30rem ;
   border-radius: 2rem;
 }
 }
