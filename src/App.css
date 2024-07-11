@@ -241,6 +241,7 @@ body {
 .bot{
   width:30rem ;
   border-radius: 2rem;
+  background: rgba(28, 30, 58, 1);
 }
 .chatImg{
   width: 3rem;
