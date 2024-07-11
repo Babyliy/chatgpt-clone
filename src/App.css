@@ -163,11 +163,11 @@ body {
   color: rgba(222, 222, 222, 1);
 }
 
-@media (max-width:768px) {
+@media (max-width:900px) {
 .App{
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
 }
 .lowerSide{
   display: none;
@@ -213,7 +213,7 @@ body {
   flex-direction: row;
   margin-top: 1rem;
   margin-bottom: 2rem;
-  align-items: flex-start;
+  align-items: center;
 }
 .query{
   width: 15rem;
