@@ -167,7 +167,7 @@ body {
 .App{
   display: flex;
   flex-direction: column;
-  height: 90vh;
+  height: 100%;
 }
 .lowerSide{
   display: none;
@@ -213,7 +213,7 @@ body {
   flex-direction: row;
   margin-top: 1rem;
   margin-bottom: 2rem;
-  align-items: center;
+  
 }
 .query{
   width: 15rem;
@@ -248,5 +248,8 @@ body {
 }
 .inp  { 
 width: 27rem;
+}
+.chatFooter{
+  position: fixed;
 }
 }
