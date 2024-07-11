@@ -181,7 +181,7 @@ body {
 }
 .midBtn{
   width: 15.5rem;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   margin-right: 1.1rem;
   padding: 1.3rem;
   margin-top: 0.02rem;
@@ -228,7 +228,7 @@ body {
   margin-trim: 0.5rem;
 }
 .chat{
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 1.2rem;
   border-radius: 2rem;
 }
@@ -236,10 +236,10 @@ body {
   margin-top: 5rem;
 }
 .bot{
-  width:25rem ;
+  width:30rem ;
   border-radius: 2rem;
 }
 .chatImg{
-  width: 2.5rem;
+  width: 3rem;
 }
 }
