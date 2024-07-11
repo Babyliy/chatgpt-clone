@@ -235,4 +235,8 @@ body {
 .main{
   margin-top: 5rem;
 }
+.bot{
+  width:32rem ;
+  border-radius: 2rem;
+}
 }
