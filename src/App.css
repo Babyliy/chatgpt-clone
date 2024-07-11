@@ -249,5 +249,10 @@ body {
 .inp  { 
 width: 27rem;
 }
-
+.chatFooter{
+  margin-top: 10rem;
+}
+.warning{
+  margin-top: 2rem;
+}
 }
