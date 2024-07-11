@@ -167,7 +167,7 @@ body {
 .App{
   display: flex;
   flex-direction: column;
-  height: 85vh;
+  height: 80vh;
 }
 .lowerSide{
   display: none;
