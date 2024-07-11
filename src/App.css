@@ -251,5 +251,6 @@ width: 27rem;
 }
 .chatFooter{
   position: fixed;
+  margin-top: 60rem;
 }
 }
