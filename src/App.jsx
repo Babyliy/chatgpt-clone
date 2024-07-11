@@ -127,7 +127,7 @@ function App() {
               <img src={sendIcon} alt="send" className="sendIcon" />
             </button>
           </div>
-          <p>LiyahBot may produce wrong information</p>
+          <p className="warning">LiyahBot may produce wrong information</p>
         </div>
       </div>
     </div>
