@@ -228,7 +228,7 @@ body {
   margin-trim: 0.5rem;
 }
 .chat{
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   padding: 1.2rem;
   border-radius: 2rem;
 }
@@ -244,7 +244,7 @@ body {
   height: 3rem;
   
 }
-.txt{
-  margin-left: 0.6rem;
+.inp > input { 
+width: 27rem;
 }
 }
